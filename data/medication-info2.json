@@ -4,8 +4,8 @@
         "mdc": "J05AF06-183-T10-01-XXX",
         "category": "A*",
         "indications": "Antiretroviral combination therapy of HIV infection in adults and adolescents from 12 years of age.",
-        "prescribingRestrictions": "i. Patients unsuitable or failed other HAART treatment\n ii. Patients who have renal impairment (CrCl\n < 50ml/min) when Abacavir and Lamivudine fixed-dose combination is not recommended",
-        "dosage": "Adult: 300mg twice daily or 600mg daily Children: i.\n Weighing 14 to <20kg: one-half of a scored abacavir\n tablet twice daily ii. Weighing ≥20kg to <25kg: one-half of a scored abacavir tablet in the morning and one whole tablet in the evening iii. Weighing at least 25kg: according to adult dose"
+        "prescribingRestrictions": "i. Patients unsuitable or failed other HAART treatment\nii) Patients who have renal impairment (CrCl\n < 50ml/min) when Abacavir and Lamivudine fixed-dose combination is not recommended",
+        "dosage": "Adult: 300mg twice daily or 600mg daily Children:\ni)\n Weighing 14 to <20kg: one-half of a scored abacavir\n tablet twice daily\nii) Weighing ≥20kg to <25kg: one-half of a scored abacavir tablet in the morning and one whole tablet in the evening\niii) Weighing at least 25kg: according to adult dose"
     },
     {
         "genericName": "Abacavir Sulphate 600 mg and Lamivudine 300 mg Tablet",
@@ -20,7 +20,7 @@
         "mdc": "L02BX03-000-T10-01-001",
         "category": "A*",
         "indications": "With prednisone or prednisolone, for the treatment of metastatic castration-resistant prostate cancer (mCRPC) in adult men.",
-        "prescribingRestrictions": "Prescribing restrictions:\n i. Those who have progressed on OR failed prior docetaxel chemotherapy\n ii. Those who are contraindicated or\n unsuitable for chemotherapy",
+        "prescribingRestrictions": "Prescribing restrictions:\n\ni) Those who have progressed on OR failed prior docetaxel chemotherapy\nii) Those who are contraindicated or\n unsuitable for chemotherapy",
         "dosage": "1,000mg once daily"
     },
     {
@@ -1813,7 +1813,7 @@
         "category": "A*",
         "indications": "Acute hypercalcaemia",
         "prescribingRestrictions": "None",
-        "dosage": "5-10 IU per kg body weight in 500mL physiological saline daily by i.v. infusion over at least 6 hours or by slow i.v. injection in 2-4 divided doses spread over the day. Renal impairment: Dosage adjustment needed."
+        "dosage": "5-10 IU per kg body weight in 500mL physiological saline daily by\ni)v. infusion over at least 6 hours or by slow\ni)v. injection in 2-4 divided doses spread over the day. Renal impairment: Dosage adjustment needed."
     },
     {
         "genericName": "Calcitonin (Synthetic Salmon) 50 IU Injection",
@@ -1821,7 +1821,7 @@
         "category": "A*",
         "indications": "Acute hypercalcaemia",
         "prescribingRestrictions": "None",
-        "dosage": "5-10 IU per kg body weight in 500mL physiological saline daily by i.v. infusion over at least 6 hours or by slow i.v. injection in 2-4 divided doses spread over the day. Renal impairment: Dosage adjustment needed."
+        "dosage": "5-10 IU per kg body weight in 500mL physiological saline daily by\ni)v. infusion over at least 6 hours or by slow\ni)v. injection in 2-4 divided doses spread over the day. Renal impairment: Dosage adjustment needed."
     },
     {
         "genericName": "Calcitriol 0.25 mcg Capsule",
@@ -3285,7 +3285,7 @@
         "category": "A/KK",
         "indications": "To be used in combination with other medicinal products for the treatment of chronic hepatitis C (CHC) in adults.",
         "prescribingRestrictions": "None",
-        "dosage": "60 mg once daily, to be taken orally with or without meals. Dose recommendation when taking concomitant medicines: i. Strong inhibitors of cytochrome P450 enzyme 3A4 (CYP3A4): Reduce dose to 30 mg once daily when co-administered with strong inhibitors of CYP3A4.\n ii. Moderate inducers of CYP3A4: Increase dose to 90 mg once daily when co-administered with moderate inducers of CYP3A4. Daclatasvir must be administered in combination with other medicinal products for the treatment of hepatitis C infection. Dose modification of daclatasvir to manage adverse reactions is not recommended."
+        "dosage": "60 mg once daily, to be taken orally with or without meals. Dose recommendation when taking concomitant medicines:\ni) Strong inhibitors of cytochrome P450 enzyme 3A4 (CYP3A4): Reduce dose to 30 mg once daily when co-administered with strong inhibitors of CYP3A4.\nii) Moderate inducers of CYP3A4: Increase dose to 90 mg once daily when co-administered with moderate inducers of CYP3A4. Daclatasvir must be administered in combination with other medicinal products for the treatment of hepatitis C infection. Dose modification of daclatasvir to manage adverse reactions is not recommended."
     },
     {
         "genericName": "Daclatasvir 60mg tablet",
@@ -3293,7 +3293,7 @@
         "category": "A/KK",
         "indications": "To be used in combination with other medicinal products for the treatment of chronic hepatitis C (CHC) in adults.",
         "prescribingRestrictions": "None",
-        "dosage": "60 mg once daily, to be taken orally with or without meals. Dose recommendation when taking concomitant medicines: i. Strong inhibitors of cytochrome P450 enzyme 3A4 (CYP3A4): Reduce dose to 30 mg once daily when co-administered with strong inhibitors of CYP3A4.\n ii. Moderate inducers of CYP3A4: Increase dose to 90 mg once daily when co-administered with moderate inducers of CYP3A4. Daclatasvir must be administered in combination with other medicinal products for the treatment of hepatitis C infection. Dose modification of daclatasvir to manage adverse reactions is not recommended."
+        "dosage": "60 mg once daily, to be taken orally with or without meals. Dose recommendation when taking concomitant medicines:\ni) Strong inhibitors of cytochrome P450 enzyme 3A4 (CYP3A4): Reduce dose to 30 mg once daily when co-administered with strong inhibitors of CYP3A4.\nii) Moderate inducers of CYP3A4: Increase dose to 90 mg once daily when co-administered with moderate inducers of CYP3A4. Daclatasvir must be administered in combination with other medicinal products for the treatment of hepatitis C infection. Dose modification of daclatasvir to manage adverse reactions is not recommended."
     },
     {
         "genericName": "Danazol 100 mg Capsule",
@@ -3331,7 +3331,7 @@
         "genericName": "Darbepoetin alfa 120mcg/0.5ml injection",
         "mdc": "B03XA02-000-P50-04-XXX",
         "category": "A*",
-        "indications": "i. Treatment of anaemia associated with chronic renal failure, including patients on dialysis and patients not on dialysis. ii. Anemia with myelodysplastic syndrome",
+        "indications": "i. Treatment of anaemia associated with chronic renal failure, including patients on dialysis and patients not on dialysis.\nii) Anemia with myelodysplastic syndrome",
         "prescribingRestrictions": "For indication (i): Patients who require higher doses of erythropoietin if it is more cost saving to use a long-acting agent instead of short-acting agents.",
         "dosage": "Indication (i): Haemodialysis patients: Initial dose: 20mcg IV once weekly Initial dose for switched ESA-treated\n patient: 15 – 60mcg IV once weekly Maintenance dose: 15 – 60mcg IV once weekly, then 30 – 120mcg IV biweekly. Peritoneal dialysis patients and patients with\n chronic kidney disease not on dialysis: Initial dose: 30mcg\n IV or SC biweekly Initial dose for switched ESA-treated patient: 30 – 120mcg IV or SC biweekly Maintenance dose: 30 – 120mcg IV or SC biweekly, then 60 – 180mcg IV or SC once every four weeks. Indication (ii): Adults: 240mcg administered as a single subcutaneous injection once weekly. The dose should be decreased in view of\n the degree of anemic symptoms and the patient’s age."
     },
@@ -3339,7 +3339,7 @@
         "genericName": "Darbepoetin alfa 20mcg/0.5ml injection",
         "mdc": "B03XA02-000-P50-01-XXX",
         "category": "A*",
-        "indications": "i. Treatment of anaemia associated with chronic renal failure, including patients on dialysis and patients not on dialysis. ii. Anemia with myelodysplastic syndrome",
+        "indications": "i. Treatment of anaemia associated with chronic renal failure, including patients on dialysis and patients not on dialysis.\nii) Anemia with myelodysplastic syndrome",
         "prescribingRestrictions": "For indication (i): Patients who require higher doses of erythropoietin if it is more cost saving to use a long-acting agent instead of short-acting agents",
         "dosage": "Indication (i): Haemodialysis patients: Initial dose: 20mcg IV once weekly Initial dose for switched ESA-treated\n patient: 15 – 60mcg IV once weekly Maintenance dose: 15 – 60mcg IV once weekly, then 30 – 120mcg IV biweekly. Peritoneal dialysis patients and patients with\n chronic kidney disease not on dialysis: Initial dose: 30mcg\n IV or SC biweekly Initial dose for switched ESA-treated patient: 30 – 120mcg IV or SC biweekly Maintenance dose: 30 – 120mcg IV or SC biweekly, then 60 – 180mcg IV or SC once every four weeks. Indication (ii): Adults: 240mcg administered as a single subcutaneous injection once weekly. The dose should be decreased in view of\n the degree of anemic symptoms and the patient’s age."
     },
@@ -3347,7 +3347,7 @@
         "genericName": "Darbepoetin alfa 40mcg/0.5ml injection",
         "mdc": "B03XA02-000-P50-03-XXX",
         "category": "A*",
-        "indications": "i. Treatment of anaemia associated with chronic renal failure, including patients on dialysis and patients not on dialysis. ii. Anemia with myelodysplastic syndrome",
+        "indications": "i. Treatment of anaemia associated with chronic renal failure, including patients on dialysis and patients not on dialysis.\nii) Anemia with myelodysplastic syndrome",
         "prescribingRestrictions": "For indication (i): Patients who require higher doses of erythropoietin if it is more cost saving to use a long-acting agent instead of short-acting agents.",
         "dosage": "Indication (i): Haemodialysis patients: Initial dose: 20mcg IV once weekly Initial dose for switched ESA-treated\n patient: 15 – 60mcg IV once weekly Maintenance dose: 15 – 60mcg IV once weekly, then 30 – 120mcg IV biweekly. Peritoneal dialysis patients and patients with\n chronic kidney disease not on dialysis: Initial dose: 30mcg\n IV or SC biweekly Initial dose for switched ESA-treated patient: 30 – 120mcg IV or SC biweekly Maintenance dose: 30 – 120mcg IV or SC biweekly, then 60 – 180mcg IV or SC once every four weeks. Indication (ii): Adults: 240mcg administered as a single subcutaneous injection once weekly. The dose should be decreased in view of\n the degree of anemic symptoms and the patient’s age."
     },
@@ -3843,7 +3843,7 @@
         "genericName": "Diltiazem HCl 100mg sustained release capsule",
         "mdc": "C08DB01-110-C20-05-001",
         "category": "A/KK",
-        "indications": "Treatment of angina pectoris in the following cases:\n i. Inadequate response or intolerance to beta- blockers and Isosorbide Dinitrate\n ii. Contraindication to beta-blockers\n iii. Coronary artery spasm",
+        "indications": "Treatment of angina pectoris in the following cases:\n\ni) Inadequate response or intolerance to beta- blockers and Isosorbide Dinitrate\nii) Contraindication to beta-blockers\niii) Coronary artery spasm",
         "prescribingRestrictions": "None",
         "dosage": "Usually, for adults, 100 mg to 200 mg to be administered orally once daily. If the effect is insufficient, the dosage may be increased to 200 mg once daily."
     },
@@ -4363,7 +4363,7 @@
         "genericName": "Epirubicin 2mg/mL Injection",
         "mdc": "L01DB03-110-P40-02-XXX",
         "category": "A*",
-        "indications": "i. Solid tumour\n ii. Non-Hodgkin's lymphoma\n iii. Leukaemia (ALL induction)\n iv. Lymphoma",
+        "indications": "i. Solid tumour\nii) Non-Hodgkin's lymphoma\niii) Leukaemia (ALL induction)\niv) Lymphoma",
         "prescribingRestrictions": "None",
         "dosage": "75 - 90mg/m2 body area injected IV in 3 - 5 min, repeated at 21 day intervals.Higher doses up to 135mg/m2 as single agent and 120mg/m2 as combination (effective in treatment of breast cancer) CHILD: 50 mg/m2 over 6 hours. Schedule depends on protocol.Refer to specific product for dosing information"
     },
@@ -4757,7 +4757,7 @@
         "category": "A*",
         "indications": "i) Treatment and perioperative prophylaxis of bleeding in acquired deficiency of the prothrombin complex coagulation factors, such as deficiency caused by treatment with vitamin K antagonists, or in case of overdose of vitamin K antagonists, when rapid correction of the deficiency is required.\nii) Treatment and perioperative prophylaxis of bleeding in congenital deficiency of any of the vitamin K dependent coagulation factors only if purified specific coagulation factor product is not available.",
         "prescribingRestrictions": "None",
-        "dosage": "Amount and frequency of administration should be calculated on an individual patient basis. Individual dosage requirements can only be identified on the basis of regular determinations of the individual plasma levels of the coagulation factors of interest or on the global tests of the prothrombin complex levels (INR, Quick's test) and a continuous monitoring of the clinical condition of the patient. An approximate calculation is as follows: Required dose (IU) = body weight (kg) x desired factor rise (IU/dl or % of normal) x reciprocal of the estimated recovery, i.e. Factor II = 53 Factor VII = 59 Factor IX = 77 Factor X = 56 As product may differ from one to another, it is strongly advised to refer to the manufacturer (product insert) in regards to dosing calculation."
+        "dosage": "Amount and frequency of administration should be calculated on an individual patient basis. Individual dosage requirements can only be identified on the basis of regular determinations of the individual plasma levels of the coagulation factors of interest or on the global tests of the prothrombin complex levels (INR, Quick's test) and a continuous monitoring of the clinical condition of the patient. An approximate calculation is as follows: Required dose (IU) = body weight (kg) x desired factor rise (IU/dl or % of normal) x reciprocal of the estimated recovery,\ni)e. Factor II = 53 Factor VII = 59 Factor IX = 77 Factor X = 56 As product may differ from one to another, it is strongly advised to refer to the manufacturer (product insert) in regards to dosing calculation."
     },
     {
         "genericName": "Factor VIIa (Recombinant) eptacog alfa (activated) 100 KIU (2 mg) Injection",
@@ -4781,7 +4781,7 @@
         "category": "A*",
         "indications": "i)The treatment and prophylaxis of haemorrhage or surgical bleeding in Von Willebrand Disease (VWD) when 1-deamino-8-D-arginine vasopressin (desmopressin, DDAVP) treatment alone is ineffective or contraindicated.\nii)The treatment and prophylaxis of bleeding associated with factor VIII deficiency due to haemophilia A.",
         "prescribingRestrictions": "None",
-        "dosage": "i. Von Willebrand Disease: Spontaneous Bleeding Episodes: Initially, factor VIII 12.5-25 IU/kg and ristocetin cofactor 25-50 IU/kg followed by factor VIII 12.5 IU/kg and ristocetin cofactor 25 IU/kg subsequently every 12- 24 hrs. Minor Surgery: Factor VIII 30 IU/kg and ristocetin cofactor 60 IU/kg daily. Major Surgery: Initially, factor VIII 30-40 IU/kg and ristocetin cofactor 60-80 IU/kg followed by factor VIII 15-30 IU/kg and ristocetin cofactor 30-60 IU/kg subsequently every 12-24 hrs. Prophylaxis: Factor VIII 12.5-20 IU/kg and ristocetin cofactor 25-40 IU/kg 3 times weekly. ii. Hemophilia A therapy: Minor haemorrage: 10-15 IU/kg every 12-24 hours. Moderate to severe haemorrhage: 15-40 IU/kg every 8 to 24 hours. Minor surgery: Loading dose 20-30 IU/kg, maintenance dose 15-30 IU/kg. Major surgery: Loading dose 40-50 IU/kg, maintenance dose 10-40 IU/kg. Prophylaxis: 25-40 IU/kg three times weekly As product may differ from one to another, it is strongly advised to refer to the manufacturer (product insert) in regards to dosing calculation."
+        "dosage": "i. Von Willebrand Disease: Spontaneous Bleeding Episodes: Initially, factor VIII 12.5-25 IU/kg and ristocetin cofactor 25-50 IU/kg followed by factor VIII 12.5 IU/kg and ristocetin cofactor 25 IU/kg subsequently every 12- 24 hrs. Minor Surgery: Factor VIII 30 IU/kg and ristocetin cofactor 60 IU/kg daily. Major Surgery: Initially, factor VIII 30-40 IU/kg and ristocetin cofactor 60-80 IU/kg followed by factor VIII 15-30 IU/kg and ristocetin cofactor 30-60 IU/kg subsequently every 12-24 hrs. Prophylaxis: Factor VIII 12.5-20 IU/kg and ristocetin cofactor 25-40 IU/kg 3 times weekly.\nii) Hemophilia A therapy: Minor haemorrage: 10-15 IU/kg every 12-24 hours. Moderate to severe haemorrhage: 15-40 IU/kg every 8 to 24 hours. Minor surgery: Loading dose 20-30 IU/kg, maintenance dose 15-30 IU/kg. Major surgery: Loading dose 40-50 IU/kg, maintenance dose 10-40 IU/kg. Prophylaxis: 25-40 IU/kg three times weekly As product may differ from one to another, it is strongly advised to refer to the manufacturer (product insert) in regards to dosing calculation."
     },
     {
         "genericName": "Factor VIII Inhibitor Bypassing Activity Injection",
@@ -5061,7 +5061,7 @@
         "category": "A*",
         "indications": "Solid tumours. Ophtalmological indication: trabeculectomy",
         "prescribingRestrictions": "None",
-        "dosage": "Intravenous Infusion: 15 mg/kg bodyweight (to a maximum of 1 g daily) diluted in 300-500mL of 5% glucose given over a period of 4 hours. 12 mg/kg bodyweight daily for 3 consecutive days. Providing there are no signs of toxic effects, the patient may then be given 6mg/kg I.V. on the 5th, 7th and 9th days. If after the 9th day there is still no sign of toxicity, the patient may be placed on maintenance therapy. Maintenance Therapy: 5 - 10mg/kg bodyweight by I.V. injection once a\n week."
+        "dosage": "Intravenous Infusion: 15 mg/kg bodyweight (to a maximum of 1 g daily) diluted in 300-500mL of 5% glucose given over a period of 4 hours. 12 mg/kg bodyweight daily for 3 consecutive days. Providing there are no signs of toxic effects, the patient may then be given 6mg/kg\ni)V. on the 5th, 7th and 9th days. If after the 9th day there is still no sign of toxicity, the patient may be placed on maintenance therapy. Maintenance Therapy: 5 - 10mg/kg bodyweight by\ni)V. injection once a\n week."
     },
     {
         "genericName": "Fluoxetine HCl 20 mg Capsule",
@@ -5467,7 +5467,7 @@
         "genericName": "Gentamicin Sulphate and Betamethasone Disodium Phosphate Eye/Ear Drops",
         "mdc": "S01CA05990D2001XX",
         "category": "A/KK",
-        "indications": "Eye: i. Corticosteroid-responsive allergic and inflammatory conditions of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe such as allergic conjunctivitis, corneal injuries, superficial punctuate keratitis, vernal keratoconjunctivitis and as an adjunct in the treatment of superficial occular infections caused by susceptible organisms. ii. Topical treatment of blepharitis, blepharoconjunctivitis, conjunctivitis, dacryocystitis, keratitis, keratoconjunctivitis and acute meibomianitis.\n Ear: i. Allergic otitis externa, infective otitis and other corticosteroid-responsive disorders of the external auditory meatus. ii. Indicated in the treatment of mastoidectomy cavity infections, chronic suppurative otitis media, subacute purulent otitis media with tympanic membrane perforation and external otitis.",
+        "indications": "Eye:\ni) Corticosteroid-responsive allergic and inflammatory conditions of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe such as allergic conjunctivitis, corneal injuries, superficial punctuate keratitis, vernal keratoconjunctivitis and as an adjunct in the treatment of superficial occular infections caused by susceptible organisms.\nii) Topical treatment of blepharitis, blepharoconjunctivitis, conjunctivitis, dacryocystitis, keratitis, keratoconjunctivitis and acute meibomianitis.\n Ear:\ni) Allergic otitis externa, infective otitis and other corticosteroid-responsive disorders of the external auditory meatus.\nii) Indicated in the treatment of mastoidectomy cavity infections, chronic suppurative otitis media, subacute purulent otitis media with tympanic membrane perforation and external otitis.",
         "prescribingRestrictions": "None",
         "dosage": "Eye: Mild to moderate infections: 1 drop to the eye(s) every 4 hours. Severe infections: 1 drop to the eye(s) every hour. Ear: 3 or 4 drops to the ear canal 3 times a day, with dosage gradually being decreased as inflammation subsides."
     },
@@ -5955,7 +5955,7 @@
         "genericName": "Ibuprofen 100mg/5ml Suspension",
         "mdc": "M01AE01-000-L80-01-XXX",
         "category": "B",
-        "indications": "i. Anti-inflammatory for rheumatic disease ii. Analgesic for treatment of mild to moderate pain",
+        "indications": "i. Anti-inflammatory for rheumatic disease\nii) Analgesic for treatment of mild to moderate pain",
         "prescribingRestrictions": "Not indicated in fever due to infection",
         "dosage": "Children: 5 - 10 mg/kg/dose (max 2.4 gm/day) every 6-8 hourly. Not recommended for <7kg"
     },
@@ -6499,7 +6499,7 @@
         "genericName": "Itopride HCl 50 mg Tablet",
         "mdc": "A03FA00110T1001XX",
         "category": "A*",
-        "indications": "Treatment of gastrointestinal symptoms of functional, non-ulcer dyspepsia (chronic gastritis) i.e sensation of bloating, early satiety, upper abdominal pain or discomfort, anorexia, heartburn, nausea and vomiting",
+        "indications": "Treatment of gastrointestinal symptoms of functional, non-ulcer dyspepsia (chronic gastritis)\ni)e sensation of bloating, early satiety, upper abdominal pain or discomfort, anorexia, heartburn, nausea and vomiting",
         "prescribingRestrictions": "None",
         "dosage": "50 mg 3 times daily before meal"
     },
@@ -7603,9 +7603,9 @@
         "genericName": "Mesalazine 1200mg Gastro- Resistant Prolonged Release Tablets",
         "mdc": "A07EC02-000-T55-01-XXX",
         "category": "A*",
-        "indications": "In patients with mild to moderate active ulcerative colitis: i. For the induction of clinical and endoscopic remission ii. For the\n maintenance of remission",
+        "indications": "In patients with mild to moderate active ulcerative colitis:\ni) For the induction of clinical and endoscopic remission\nii) For the\n maintenance of remission",
         "prescribingRestrictions": "None",
-        "dosage": "Adults: i. Induction of remission: 2.4 to 4.8g once daily. ii. For maintenance of remission: 2.4g once daily."
+        "dosage": "Adults:\ni) Induction of remission: 2.4 to 4.8g once daily.\nii) For maintenance of remission: 2.4g once daily."
     },
     {
         "genericName": "Mesalazine 1g/100ml enema",
@@ -7837,7 +7837,7 @@
         "category": "A*",
         "indications": "i) Intramuscular administration: anti- inflammatory treatment, treatment of hematological and oncological disorders, endocrine disorders\n\nii) Intrasynovial, periarticular, intrabursal or soft tissue administration: Indicated as adjunctive therapy for short term administration in : Synovitis of osteoarthritis, rheumatoid arthritis, acute and subacute bursitis, acute gouty arthritis, epicondylitis, acute nonspecific tenosynovitis, post-traumatic osteoarthritis\n\niii) Intralesional use in alopecia areata, discoid lupus erythematosus; keloids, localized hypertrophic, infiltrated inflammatory lesions of granuloma annulare, lichen planus, psoriatic plaques, lichen simplex chronicus (neurodermatitis) *Restricted to patients experiencing side effects with triamcinolone acetonide",
         "prescribingRestrictions": "None",
-        "dosage": "i. Intramuscular route a) Asthma: may be used in place of a short burst of oral steroids in vomiting or non-adherent patients. The recommended dose is 80- 120mg intramuscularly as a one-dose b) Adrenogenital syndrome: 40mg every two weeks c) Rheumatoid arthritis (maintenance): 40-120mg weekly d) Dermatologic lesions (acute severe dermatitis, chronic contact dermatitis, seborrheic dermatitis): 40-120mg weekly for 1-4 weeks ii. Intraarticular route Recommended dose is 4 to 80 milligrams, depending upon the size of the joint. Injections may be repeated at intervals of 1 to 5 or more weeks in chronic cases iii.Intralesional route 20 to 60 milligrams methylprednisolone acetate injected into the lesion"
+        "dosage": "i. Intramuscular route a) Asthma: may be used in place of a short burst of oral steroids in vomiting or non-adherent patients. The recommended dose is 80- 120mg intramuscularly as a one-dose b) Adrenogenital syndrome: 40mg every two weeks c) Rheumatoid arthritis (maintenance): 40-120mg weekly d) Dermatologic lesions (acute severe dermatitis, chronic contact dermatitis, seborrheic dermatitis): 40-120mg weekly for 1-4 weeks\nii) Intraarticular route Recommended dose is 4 to 80 milligrams, depending upon the size of the joint. Injections may be repeated at intervals of 1 to 5 or more weeks in chronic cases\niii)Intralesional route 20 to 60 milligrams methylprednisolone acetate injected into the lesion"
     },
     {
         "genericName": "Methylprednisolone Sodium Succinate 0.5 g Injection",
@@ -8747,7 +8747,7 @@
         "genericName": "Ofloxacin 0.3% Otic Solution",
         "mdc": "S02AA00000D1001XX",
         "category": "A/KK",
-        "indications": "i. Acute otitis media with tympanostomy tubes\n ii. Chronic suppurative otitis media with\n perforated tympanic membranes and iii. Otitis externa",
+        "indications": "i. Acute otitis media with tympanostomy tubes\nii) Chronic suppurative otitis media with\n perforated tympanic membranes and\niii) Otitis externa",
         "prescribingRestrictions": "None",
         "dosage": "CHILD: 1 - 12 years: 5 drops twice daily for 10 days. ADULT and CHILD over 12 years: 6 - 10 drops twice daily and remain in the ear about 10 minutes"
     },
@@ -8947,7 +8947,7 @@
         "genericName": "Oxycodone HCl 1mg/ml syrup",
         "mdc": "N02AA05-110-L50-01-XXX",
         "category": "A*",
-        "indications": "As a second-line drug in the management of responsive, moderate to severe pain in patients who i. have difficulty swallowing or ii. require a low dose oxycodone (<5mg).",
+        "indications": "As a second-line drug in the management of responsive, moderate to severe pain in patients who\ni) have difficulty swallowing or\nii) require a low dose oxycodone (<5mg).",
         "prescribingRestrictions": "To be prescribed by palliative medicine physicians, oncologist, anaesthesiologist, haematologist and pain specialists only",
         "dosage": "Initial dose for opioid naïve patients or patients presenting with severe pain uncontrolled by weaker opioids is 5 mg, 4-6 hourly. The dose should then be carefully titrated, as frequently as once a day if necessary, to achieve pain relief. Maximum daily dose is 400mg daily. Dosing is individualised and according to product insert/protocol. Should not be used in patients under 18\n years."
     },
@@ -9756,7 +9756,7 @@
         "mdc": "J07AL01-000-P30-02-XXX",
         "category": "A*, C+",
         "indications": "1. Active immunisation for the prevention of pneumococcal disease caused by Streptococcus pneumoniae serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F (including invasive disease, pneumonia and acute otitis media) in infants, children and adolescents from 2 months to 17 years of age: - PRESCRIBER CATEGORY C+: National Immunisation Programme (NIP) - PRESCRIBER CATEGORY A*: Immunisation other than NIP 2. Active immunisation for the prevention of pneumococcal disease caused by Streptococcus pneumoniae serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F in adults aged 18 years and older. - PRESCRIBER CATEGORY A*",
-        "prescribingRestrictions": "INDICATION (1): i. Immunisation for newborn cohort eligible for National Immunisation Programme (NIP) (Prescriber Category: C+) ii. Paediatric population without history of vaccination or not eligible for NIP, who have associated risk in IPD with following conditions (Prescriber Category:\n A*): a) Infants/children from 2 months of age with one of the following conditions: • Functional or anatomical asplenia; • Cochlear implant; • Congenital\n immunodeficiency; • Haematopoietic and solid organ transplant; • Cerebrospinal fluid leakage b) High risk infants/children from 2 months old with one of the following\n conditions: • Immunosuppression (including asymptomatic HIV) • Nephrotic syndrome • Chronic lung or heart disease (adapted from Paediatric Protocols for Malaysia Hospital,\n 3rd Edition) • Chronic liver disease INDICATION (2) (Prescriber Category: A*): i. Adult population aged 18 years and above with associated risk in IPD with following conditions: a) Functional or anatomical asplenia; b) Cochlear implant; c) Congenital immune-deficiency; d) Haematopoietic and",
+        "prescribingRestrictions": "INDICATION (1):\ni) Immunisation for newborn cohort eligible for National Immunisation Programme (NIP) (Prescriber Category: C+)\nii) Paediatric population without history of vaccination or not eligible for NIP, who have associated risk in IPD with following conditions (Prescriber Category:\n A*): a) Infants/children from 2 months of age with one of the following conditions: • Functional or anatomical asplenia; • Cochlear implant; • Congenital\n immunodeficiency; • Haematopoietic and solid organ transplant; • Cerebrospinal fluid leakage b) High risk infants/children from 2 months old with one of the following\n conditions: • Immunosuppression (including asymptomatic HIV) • Nephrotic syndrome • Chronic lung or heart disease (adapted from Paediatric Protocols for Malaysia Hospital,\n 3rd Edition) • Chronic liver disease INDICATION (2) (Prescriber Category: A*):\ni) Adult population aged 18 years and above with associated risk in IPD with following conditions: a) Functional or anatomical asplenia; b) Cochlear implant; c) Congenital immune-deficiency; d) Haematopoietic and",
         "dosage": "For indication 1(i): 2-dose primary series (2+1): A series consisting of 3 doses, each of 0.5 ml may be given. Dosing is according to Immunisation Schedule under NIP. For other indications: ADULT: to be administered as a single dose to adults 18 years and older including those previously vaccinated with a pneumococcal polysaccharide vaccine. The need for re-vaccination with a subsequent dose of PCV13 has not been established.\n INFANT: Infants aged 2-6 months:\ni) Three-dose primary series: The recommended immunisation series consists of four doses, each of 0.5 mL. The primary infant series consists of three doses, with the first dose usually given at 2 months of age and with an interval of at least 1 month between doses. The first dose may be given as early as six weeks of age. The fourth (booster) dose is recommended between 12-15 months of age, or\nii) Two- dose primary series: A series consisting of three doses, each of 0.5 mL may be considered. The first dose may be given from the age of 2 months, with a second dose 2 months later. The third (booster) dose is recommended between 11-15 months of age. Preterm infants (<37 weeks gestation): The recommended immunisation series consists of four doses, each of 0.5 mL. The primary infant series consists of three doses, with the first dose given at 2 months of age and with an interval of at least 1 month between doses. The first dose may be given as early as six"
     },
     {
@@ -10027,7 +10027,7 @@
         "genericName": "Pregabalin 150 mg Capsules",
         "mdc": "N03AX16-000-C10-02-XXX",
         "category": "A*",
-        "indications": "i. Neuropathic pain ii. Fibromyalgia iii. Epilepsy",
+        "indications": "i. Neuropathic pain\nii) Fibromyalgia\niii) Epilepsy",
         "prescribingRestrictions": "Consultant/specialists for specific indications only, including Geriatricians",
         "dosage": "The dose range is 150 to 600 mg per day given in either two or three divided doses. Dosing is according to\n Product Insert"
     },
@@ -10035,7 +10035,7 @@
         "genericName": "Pregabalin 50 mg capsule",
         "mdc": "N03AX16-000-C10-03-XXX",
         "category": "A*",
-        "indications": "i. Neuropathic pain ii. Fibromyalgia iii. Epilepsy",
+        "indications": "i. Neuropathic pain\nii) Fibromyalgia\niii) Epilepsy",
         "prescribingRestrictions": "Consultant/specialists for specific indications only, including Geriatricians",
         "dosage": "The dose range is 150 to 600 mg per day given in either\n two or three divided doses. Dosing is according to Product Insert"
     },
@@ -10043,7 +10043,7 @@
         "genericName": "Pregabalin 75mg Capsule",
         "mdc": "N03AX16-000-C10-01-XXX",
         "category": "A*",
-        "indications": "i. Neuropathic pain ii. Fibromyalgia iii. Epilepsy",
+        "indications": "i. Neuropathic pain\nii) Fibromyalgia\niii) Epilepsy",
         "prescribingRestrictions": "Consultant/specialists for specific indications only, including Geriatricians",
         "dosage": "The dose range is 150 to 600 mg per day given in either\n two or three divided doses. Dosing is according to Product Insert"
     },
@@ -10445,7 +10445,7 @@
         "category": "A*",
         "indications": "i)Control and prevention of bleeding episodes in adults and children (0-16 years) with hemophilia\n A.\nii)Surgical prophylaxis in adults and children with hemophilia A.\niii)Routine prophylactic treatment to reduce the frequency of bleeding episodes and the risk of joint damage in children with no pre-existing joint damage. Not indicated fot the treatment of von willebrand's disease.",
         "prescribingRestrictions": "None",
-        "dosage": "The dosage and duration of treatment should be individualised and taking into account the severity of factor VIII deficiency, location and extent of bleeding and patient's clinical condition. Dose can be calculated by using: i. Required dose (IU) = body weight (kg) x desired factor VIII rise (IU/dl or % of normal) x 0.5 (IU/kg) or ii. Expected factor VIII rise (% of normal) = 2 x (dose administered)/ bodyweight (kg) Dose administered should be titrated to patient's clinical response"
+        "dosage": "The dosage and duration of treatment should be individualised and taking into account the severity of factor VIII deficiency, location and extent of bleeding and patient's clinical condition. Dose can be calculated by using:\ni) Required dose (IU) = body weight (kg) x desired factor VIII rise (IU/dl or % of normal) x 0.5 (IU/kg) or\nii) Expected factor VIII rise (% of normal) = 2 x (dose administered)/ bodyweight (kg) Dose administered should be titrated to patient's clinical response"
     },
     {
         "genericName": "Recombinant Factor VIII 500 IU Injection",
@@ -10453,7 +10453,7 @@
         "category": "A*",
         "indications": "i)Control and prevention of bleeding episodes in adults and children (0-16 years) with hemophilia\n A.\nii)Surgical prophylaxis in adults and children with hemophilia A.\niii)Routine prophylactic treatment to reduce the frequency of bleeding episodes and the risk of joint damage in children with no pre-existing joint damage. Not indicated for the treatment of von willebrand's disease.",
         "prescribingRestrictions": "None",
-        "dosage": "The dosage and duration of treatment should be individualised and taking into account the severity of factor VIII deficiency, location and extent of bleeding and patient's clinical condition. Dose can be calculated by using: i. Required dose (IU) = body weight (kg) x desired factor VIII rise (IU/dl or % of normal) x 0.5 (IU/kg) or ii. Expected factor VIII rise (% of normal) = 2 x (dose administered)/ bodyweight (kg) Dose administered should be titrated to patient's clinical response."
+        "dosage": "The dosage and duration of treatment should be individualised and taking into account the severity of factor VIII deficiency, location and extent of bleeding and patient's clinical condition. Dose can be calculated by using:\ni) Required dose (IU) = body weight (kg) x desired factor VIII rise (IU/dl or % of normal) x 0.5 (IU/kg) or\nii) Expected factor VIII rise (% of normal) = 2 x (dose administered)/ bodyweight (kg) Dose administered should be titrated to patient's clinical response."
     },
     {
         "genericName": "Remifentanil 5 mg Injection",
@@ -10843,9 +10843,9 @@
         "genericName": "Salbutamol 0.5 mg/ml Injection",
         "mdc": "R03CC02183P3001XX",
         "category": "A",
-        "indications": "i. Asthma and other conditions associated with reversible airways obstruction ii. For prevention of uncomplicated premature labour",
+        "indications": "i. Asthma and other conditions associated with reversible airways obstruction\nii) For prevention of uncomplicated premature labour",
         "prescribingRestrictions": "None",
-        "dosage": "i. 500 mcg by SC/IM injection 4 hourly or 250 mcg by slow IV. If required, by IV infusion, initially 5 mcg/min adjusted according to response and heart rate, usually in the range 3 - 20 mcg/min ii. Infusions containing 5 mg in 500ml (10 mcg/ml) at the rate of 10 - 45 mcg/min increased at intervals of 10 minutes until evidence of patient response as shown by reduction of strength, frequency or duration of contractions; maintain rate for 1 hour after contractions have stopped, then gradually reduce by 50% every 6 hours"
+        "dosage": "i. 500 mcg by SC/IM injection 4 hourly or 250 mcg by slow IV. If required, by IV infusion, initially 5 mcg/min adjusted according to response and heart rate, usually in the range 3 - 20 mcg/min\nii) Infusions containing 5 mg in 500ml (10 mcg/ml) at the rate of 10 - 45 mcg/min increased at intervals of 10 minutes until evidence of patient response as shown by reduction of strength, frequency or duration of contractions; maintain rate for 1 hour after contractions have stopped, then gradually reduce by 50% every 6 hours"
     },
     {
         "genericName": "Salbutamol 100 mcg/dose\n Inhalation",
@@ -10883,9 +10883,9 @@
         "genericName": "Salbutamol 5 mg/5 ml Injection",
         "mdc": "R03CC02183P3002XX",
         "category": "A",
-        "indications": "i. Asthma and other conditions associated with reversible airways obstruction ii. For prevention of uncomplicated premature labour",
+        "indications": "i. Asthma and other conditions associated with reversible airways obstruction\nii) For prevention of uncomplicated premature labour",
         "prescribingRestrictions": "None",
-        "dosage": "i. 500 mcg by SC/IM injection 4 hourly or 250 mcg by slow IV. If required, by IV infusion, initially 5 mcg/min adjusted according to response and heart rate, usually in the range 3 - 20 mcg/min ii. Infusions containing 5 mg in 500ml (10 mcg/ml) at the rate of 10 - 45 mcg/min increased at intervals of 10 minutes until evidence of patient response as shown by reduction of strength, frequency or duration of contractions; maintain rate for 1 hour after contractions have stopped, then gradually reduce by 50% every 6 hours"
+        "dosage": "i. 500 mcg by SC/IM injection 4 hourly or 250 mcg by slow IV. If required, by IV infusion, initially 5 mcg/min adjusted according to response and heart rate, usually in the range 3 - 20 mcg/min\nii) Infusions containing 5 mg in 500ml (10 mcg/ml) at the rate of 10 - 45 mcg/min increased at intervals of 10 minutes until evidence of patient response as shown by reduction of strength, frequency or duration of contractions; maintain rate for 1 hour after contractions have stopped, then gradually reduce by 50% every 6 hours"
     },
     {
         "genericName": "Salicylazosulphapyridine (Sulfasalazine) 500 mg Tablet",
@@ -11507,9 +11507,9 @@
         "genericName": "Sodium Valproate 200 mg Tablet",
         "mdc": "N03AG01520T1001XX",
         "category": "B",
-        "indications": "i. Epilepsy ii. Treatment and prevention of mania associated with bipolar disorders",
+        "indications": "i. Epilepsy\nii) Treatment and prevention of mania associated with bipolar disorders",
         "prescribingRestrictions": "None",
-        "dosage": "i. Epilepsy: ADULT: Initially 600 mg/day in 2 - 3 divided doses, dose may be increased by 200 mg at 3-day intervals to max 2.5 g/day. Usual maintenance dose: 1-2 g/day (20-30 mg/kg/day). CHILD: - More than 20 kg. Initially 400 mg/day with spaced increases until control is achieved (usually 20-30 mg/kg/day), dose may be increased to 35 mg/kg/day. - Less than 20 kg 20 mg/kg/day, in severe cases the dose may be increased provided plasma concentration can be monitored. ii. Treatment and prevention of mania associated with bipolar disorders: ADULT: The recommended initial dose is 1000mg/day. The dose should be increased as rapidly as possible to achieve the lowest therapeutic dose, which produces the desired clinical effects. The recommended maintenance dosage for the treatment of bipolar disorder is between 1000mg and 2000mg daily. In exceptional cases, the dose may be increased to not more than 3000mg daily."
+        "dosage": "i. Epilepsy: ADULT: Initially 600 mg/day in 2 - 3 divided doses, dose may be increased by 200 mg at 3-day intervals to max 2.5 g/day. Usual maintenance dose: 1-2 g/day (20-30 mg/kg/day). CHILD: - More than 20 kg. Initially 400 mg/day with spaced increases until control is achieved (usually 20-30 mg/kg/day), dose may be increased to 35 mg/kg/day. - Less than 20 kg 20 mg/kg/day, in severe cases the dose may be increased provided plasma concentration can be monitored.\nii) Treatment and prevention of mania associated with bipolar disorders: ADULT: The recommended initial dose is 1000mg/day. The dose should be increased as rapidly as possible to achieve the lowest therapeutic dose, which produces the desired clinical effects. The recommended maintenance dosage for the treatment of bipolar disorder is between 1000mg and 2000mg daily. In exceptional cases, the dose may be increased to not more than 3000mg daily."
     },
     {
         "genericName": "Sodium Valproate 200 mg/5 ml Syrup",
@@ -11517,7 +11517,7 @@
         "category": "B",
         "indications": "i) Treatment of generalized or partial epilepsy.\nii) Treatment and prevention of mania associated with bipolar disorder",
         "prescribingRestrictions": "None",
-        "dosage": "i. Epilepsy: ADULT: Initially 600 mg/day in 2 - 3 divided doses, dose may be increased by 200 mg at 3-day intervals to max 2.5 g/day. Usual maintenance dose: 1-2 g/day (20-30 mg/kg/day). CHILD: - More than 20 kg. Initially 400 mg/day with spaced increases until control is achieved (usually 20-30 mg/kg/day), dose may be increased to 35 mg/kg/day. - Less than 20 kg 20 mg/kg/day, in severe cases the dose may be increased provided plasma concentration can be monitored. ii. Treatment and prevention of mania associated with bipolar disorders: ADULT: The recommended initial dose is 1000mg/day. The dose should be increased as rapidly as possible to achieve the lowest therapeutic dose, which produces the desired clinical effects. The recommended maintenance dosage for the treatment of bipolar disorder is between 1000mg and 2000mg daily. In exceptional cases, the dose may be increased to not more than 3000mg daily."
+        "dosage": "i. Epilepsy: ADULT: Initially 600 mg/day in 2 - 3 divided doses, dose may be increased by 200 mg at 3-day intervals to max 2.5 g/day. Usual maintenance dose: 1-2 g/day (20-30 mg/kg/day). CHILD: - More than 20 kg. Initially 400 mg/day with spaced increases until control is achieved (usually 20-30 mg/kg/day), dose may be increased to 35 mg/kg/day. - Less than 20 kg 20 mg/kg/day, in severe cases the dose may be increased provided plasma concentration can be monitored.\nii) Treatment and prevention of mania associated with bipolar disorders: ADULT: The recommended initial dose is 1000mg/day. The dose should be increased as rapidly as possible to achieve the lowest therapeutic dose, which produces the desired clinical effects. The recommended maintenance dosage for the treatment of bipolar disorder is between 1000mg and 2000mg daily. In exceptional cases, the dose may be increased to not more than 3000mg daily."
     },
     {
         "genericName": "Sodium Valproate 400 mg Injection",
@@ -11923,7 +11923,7 @@
         "genericName": "Temozolomide 100 mg Capsule",
         "mdc": "L01AX03000C1003XX",
         "category": "A*",
-        "indications": "In patients with glioblastoma multiforme who fulfill all the following criteria: i. Total /near total resection ii. ECOG/WHO performance status 0-2\n iii. Age less than 60 years",
+        "indications": "In patients with glioblastoma multiforme who fulfill all the following criteria:\ni) Total /near total resection\nii) ECOG/WHO performance status 0-2\niii) Age less than 60 years",
         "prescribingRestrictions": "None",
         "dosage": "Concomitant phase : 75mg/m2 daily with radiotherapy for 42 days, followed by 6 cycle of adjuvant treatment. Adjuvant phase: Additional 6 cycles of adjuvant phase. Cycle 1- 150mg/m2 once daily for 5 days followed by 23 days without treatment. Cycle 2-6 : 200mg/m2 once daily for 5 days per 28-day cycle"
     },
@@ -11931,7 +11931,7 @@
         "genericName": "Temozolomide 20 mg Capsule",
         "mdc": "L01AX03000C1001XX",
         "category": "A*",
-        "indications": "In patients with glioblastoma multiforme who fulfill all the following criteria : i. total /near total resection ii. ECOG/WHO performance status 0-2\n iii. Age less than 60 years",
+        "indications": "In patients with glioblastoma multiforme who fulfill all the following criteria :\ni) total /near total resection\nii) ECOG/WHO performance status 0-2\niii) Age less than 60 years",
         "prescribingRestrictions": "None",
         "dosage": "Concomitant phase : 75mg/m2 daily with radiotherapy for 42 days, followed by 6 cycle of adjuvant treatment. Adjuvant phase: Additional 6 cycles of adjuvant phase. Cycle 1- 150mg/m2 once daily for 5 days followed by 23 days without treatment. Cycle 2-6 : 200mg/m2 once daily for 5 days per 28-day cycle"
     },
@@ -12635,7 +12635,7 @@
         "genericName": "Vancomycin HCl 500mg Injection",
         "mdc": "J01XA01-110-P40-01-XXX",
         "category": "A*",
-        "indications": "i. Treatment of infections due to susceptible gram-positive organisms which cannot be treated with other agents (eg. MRSA and Enterococcus sp.) ii. Treatment of severe staphylococcal infections in patients who cannot receive or who have failed to respond to the penicillins and cephalosporins.",
+        "indications": "i. Treatment of infections due to susceptible gram-positive organisms which cannot be treated with other agents (eg. MRSA and Enterococcus sp.)\nii) Treatment of severe staphylococcal infections in patients who cannot receive or who have failed to respond to the penicillins and cephalosporins.",
         "prescribingRestrictions": "None",
         "dosage": "Slow IV infusion. ADULT: 15-20mg/kg q 8-12 hours, not to exceed 2gm per dose. NEONATE up to 1 week, 15 mg/kg initially, then 10 mg/kg every 12 hours. INFANT 1 - 4 weeks, 15 mg/kg initially then 10 mg/kg every 8 hours.\n CHILD over 1 month, 10 mg/kg every 6 hours"
     },
