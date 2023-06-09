@@ -1,3 +1,1 @@
-# Firdaus Mustar
-## Pharmacist | Coder | Student 
-
+## Supposedly showcasing developed apps for public use.
