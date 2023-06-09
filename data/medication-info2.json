@@ -9467,7 +9467,7 @@
         "genericName": "Perindopril 4 mg and Indapamide\n 1.25 mg Tablet",
         "mdc": "C09BA04-900-T10-01-XXX",
         "category": "B",
-        "indications": "Essential hypertension, for patients whose blood pressure is insufficiently controlled by\n perindopril alone.",
+        "indications": "Essential hypertension, for patients whose blood pressure is insufficiently controlled by perindopril alone.",
         "prescribingRestrictions": "None",
         "dosage": "One tablet daily, preferably taken in the morning and before a meal."
     },
@@ -9475,7 +9475,7 @@
         "genericName": "Perindopril 4 mg Tablet",
         "mdc": "C09AA04000T1001XX",
         "category": "B",
-        "indications": "i) Hypertension ii) Stable coronary artery disease\n iii) Heart failure",
+        "indications": "i) Hypertension\nii) Stable coronary artery disease\niii) Heart failure",
         "prescribingRestrictions": "None",
         "dosage": "i) & ii) Initial: 4mg once daily Max. 8mg daily iii) Initial: 2mg once daily Maintenance: 4mg once daily Dosing is individualised and according to product insert / protocol."
     },
