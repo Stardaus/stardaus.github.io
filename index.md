@@ -1,1 +1,1 @@
-## Supposedly showcasing developed apps for public use.
+## Supposedly showcasing developed apps and other related contents for public use.
