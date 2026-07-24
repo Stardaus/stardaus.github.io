@@ -78,3 +78,7 @@ This document tracks the current progression, architectural decisions, pending r
   - Configured SSG build pre-rendering via Puppeteer in [vite.config.ts](file:///Users/nina/development/projects/portfolio-site/vite.config.ts) and pre-rendered static HTML routes (`/`, `/projects`, `/about`) into `/dist` (Task 014).
   - Verified 13 test suites (24 tests) pass with 100% success rate.
 - **Status:** **PROJECT 100% COMPLETE & PRODUCTION READY.**
+
+### Session 3: Personalization & GitHub Pages Deployment (July 25, 2026)
+- **Activity:** Tailored all site content, biography, MOH career timeline, University of Otago education, research publications, and MDX case studies to Muhammad Firdaus bin Mustar's Curriculum Vitae. Processed profile photo (`public/profile.jpg`) to fit Swiss monochromatic aesthetic. Initialized Git, added `.gitignore` and GitHub Actions deploy workflow (`.github/workflows/deploy.yml`), and pushed codebase to `https://github.com/Stardaus/stardaus.github.io.git`.
+- **Status:** **PROJECT LIVE & DEPLOYED ON GITHUB PAGES.**
