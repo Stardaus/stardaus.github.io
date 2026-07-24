@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-swiss-white text-swiss-black dark:bg-swiss-black dark:text-swiss-white;
+  }
+}
+
+/* Custom Swiss Grid Utilities */
+.swiss-border {
+  @apply border-1 border-swiss-gray-200 dark:border-swiss-gray-800;
+}
+
+.swiss-border-b {
+  @apply border-b-1 border-swiss-gray-200 dark:border-swiss-gray-800;
+}
+
+.swiss-border-t {
+  @apply border-t-1 border-swiss-gray-200 dark:border-swiss-gray-800;
+}
+
+.swiss-border-l {
+  @apply border-l-1 border-swiss-gray-200 dark:border-swiss-gray-800;
+}
+
+.swiss-border-r {
+  @apply border-r-1 border-swiss-gray-200 dark:border-swiss-gray-800;
+}
+
+.swiss-focus {
+  @apply focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-swiss-accent focus-visible:border-swiss-accent;
+}

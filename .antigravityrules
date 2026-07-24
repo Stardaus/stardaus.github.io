@@ -1,0 +1,31 @@
+# Portfolio Site Workspace Rules
+
+This file defines the system rules and behavioral prompts for AI agents collaborating on the Portfolio & Project Showcase workspace.
+
+---
+
+## 1. Context Bootstrapping
+
+At the start of every session, you MUST:
+1. Read the current project progress and status from [ai/session-memory.md](file:///Users/nina/development/projects/portfolio-site/ai/session-memory.md).
+2. Read the specifications in the docs/ directory:
+   - [project-constitution.md](file:///Users/nina/development/projects/portfolio-site/docs/project-constitution.md) for core design systems, style guidelines, tech stack guardrails, and testing rules.
+   - [requirements-specification.md](file:///Users/nina/development/projects/portfolio-site/docs/requirements-specification.md) for user stories, acceptance criteria, and edge cases.
+   - [technical-blueprint.md](file:///Users/nina/development/projects/portfolio-site/docs/technical-blueprint.md) for architecture, file structures, data contracts, and tailwind configs.
+   - [tasks-roadmap.md](file:///Users/nina/development/projects/portfolio-site/docs/tasks-roadmap.md) for the atomic roadmap steps.
+
+---
+
+## 2. Session Disconnect & Housekeeping Protocol
+
+When the user says "it is almost time to disconnect" (or similar phrasing like "time to wrap up", "closing the session", etc.), you MUST execute the following sequence:
+
+1. **Session Summary:** Write a concise summary of the achievements, decisions, and modifications made during the current session.
+2. **Housekeeping Checklist:**
+   - Verify that all edited files are clean of syntax errors or incomplete code blocks.
+   - Run a `git status` check (if the repository is initialized) to identify staged, unstaged, and untracked changes, and report them.
+3. **Update Session Memory:** Update [ai/session-memory.md](file:///Users/nina/development/projects/portfolio-site/ai/session-memory.md):
+   - Mark any completed tasks or specs in the "Pending Specs & Open Items" checklist.
+   - Append a new log entry under "Session Logs" describing the accomplishments of this session.
+4. **Prepare Next Steps:** List the 2-3 immediate, actionable tasks that should be prioritized in the next session.
+5. **Present the Wrap-up:** Output this information clearly to the user before they close the terminal/editor.
