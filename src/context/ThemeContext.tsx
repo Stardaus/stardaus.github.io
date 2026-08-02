@@ -5,7 +5,7 @@ export const ThemeContext = createContext<ThemeContextType | undefined>(undefine
 
 export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [theme, setThemeState] = useState<ThemeMode>(() => {
-    if (typeof window !== 'undefined') {
+    if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
       const stored = localStorage.getItem('portfolio-theme') as ThemeMode;
       if (stored === 'light' || stored === 'dark' || stored === 'system') {
         return stored;
@@ -26,7 +26,9 @@ export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ childre
 
   const setTheme = (newTheme: ThemeMode) => {
     setThemeState(newTheme);
-    localStorage.setItem('portfolio-theme', newTheme);
+    if (typeof localStorage !== 'undefined') {
+      localStorage.setItem('portfolio-theme', newTheme);
+    }
   };
 
   useEffect(() => {

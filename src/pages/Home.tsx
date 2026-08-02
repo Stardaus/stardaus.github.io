@@ -23,13 +23,13 @@ export const Home: React.FC = () => {
 
   const coreSkills = [
     'Clinical Operations',
-    'React',
-    'Vite',
+    'Custom App Building',
+    'Local-First PWAs',
     'FastAPI',
+    'React & Vite',
     'TypeScript',
-    'PostgreSQL',
-    'Supabase',
-    'Local-First PWA',
+    'PostgreSQL & Supabase',
+    'Workflow Automation',
     'Public Health Research',
   ];
 
@@ -40,7 +40,7 @@ export const Home: React.FC = () => {
         {/* Left Column: Bio & Info */}
         <div className="lg:col-span-7 flex flex-col gap-8">
           <div className="flex flex-wrap items-center gap-4 font-mono text-xs uppercase tracking-widest text-swiss-accent font-bold">
-            <span>// MOH REGISTERED PHARMACIST & WEB DEVELOPER</span>
+            <span>// MOH REGISTERED PHARMACIST & SOFTWARE BUILDER</span>
             <span className="flex items-center gap-1 text-swiss-gray-800 dark:text-swiss-gray-300 font-normal">
               <MapPin className="h-3.5 w-3.5 text-swiss-accent" />
               BANTING, SELANGOR, MALAYSIA
@@ -53,7 +53,7 @@ export const Home: React.FC = () => {
           </h1>
 
           <p className="font-sans text-lg text-swiss-gray-800 dark:text-swiss-gray-300 leading-relaxed">
-            Government pharmacist with 10+ years of MOH public healthcare experience in Selangor. Bridging clinical operations, outpatient dispensing, and public health research with modern web development, relational databases, and local-first clinical tooling.
+            Government pharmacist with 10+ years of MOH public healthcare experience in Selangor. I design and develop practical application tools, local-first PWAs, and database solutions to solve workflow friction for clinical operations, organizations, and custom projects.
           </p>
 
           <div className="flex flex-wrap gap-2 py-1">

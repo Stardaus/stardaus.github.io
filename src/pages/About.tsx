@@ -137,7 +137,7 @@ export const About: React.FC = () => {
           </h1>
 
           <p className="font-sans text-lg text-swiss-gray-800 dark:text-swiss-gray-300 leading-relaxed">
-            Government pharmacist with over 10 years of MOH public healthcare experience across hospital and primary care clinic settings in Selangor. Core background in clinical pharmacy operations, primary care dispensing, and public health research, alongside ongoing self-directed project work in web development and relational databases for clinical tooling.
+            Government pharmacist with over 10 years of MOH public healthcare experience across hospital and primary care clinic settings in Selangor. Core background in clinical pharmacy operations, primary care dispensing, and public health research, combined with hands-on software development in building custom applications, local-first PWAs, and database tooling for clinical and organizational workflows.
           </p>
 
           <div className="flex flex-wrap gap-4 pt-2 font-mono text-xs text-swiss-gray-800 dark:text-swiss-gray-300 uppercase">
@@ -287,7 +287,7 @@ export const About: React.FC = () => {
             <span>DIRECT INQUIRY</span>
           </h2>
           <p className="font-sans text-sm text-swiss-gray-800 dark:text-swiss-gray-300">
-            Have a collaboration, research, or clinical development inquiry? Contact me using the form below.
+            Interested in discussing a custom app, simple PWA for your organization, clinical workflow tool, or research collaboration? Feel free to send an inquiry using the form below.
           </p>
         </div>
 

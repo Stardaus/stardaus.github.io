@@ -12,15 +12,23 @@ export default defineConfig(({ command }) => {
   if (command === 'build') {
     try {
       const vitePrerender = require('vite-plugin-prerender');
+      const PuppeteerRenderer = require('@prerenderer/renderer-puppeteer');
+      const fs = require('fs');
+      const edgePath = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
+      const chromePath = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+      const executablePath = process.env.PUPPETEER_EXECUTABLE_PATH ||
+        (fs.existsSync(edgePath) ? edgePath : (fs.existsSync(chromePath) ? chromePath : undefined));
+
       prerenderPlugin = [
         vitePrerender({
           staticDir: path.join(__dirname, 'dist'),
           routes: ['/', '/projects', '/about'],
-          rendererOptions: {
+          renderer: new PuppeteerRenderer({
             headless: true,
             args: ['--no-sandbox', '--disable-setuid-sandbox'],
             timeout: 20000,
-          },
+            ...(executablePath ? { executablePath } : {}),
+          }),
         }),
       ];
     } catch (e) {
@@ -47,7 +55,8 @@ export default defineConfig(({ command }) => {
     test: {
       globals: true,
       environment: 'jsdom',
-      include: ['tests/setup.ts', 'tests/**/*.test.ts', 'tests/**/*.test.tsx'],
+      setupFiles: ['./tests/setup.ts'],
+      include: ['tests/**/*.test.ts', 'tests/**/*.test.tsx'],
     },
   } as any;
 });

@@ -15,8 +15,8 @@ function PageSEO() {
   if (location.pathname === '/') {
     return (
       <SEOHead
-        title="Muhammad Firdaus bin Mustar | Pharmacist & Developer"
-        description="Government Pharmacist (MOH) with 10+ years of public healthcare experience in Selangor, specializing in clinical operations, public health research, and web development."
+        title="Muhammad Firdaus bin Mustar | Pharmacist & App Builder"
+        description="Government Pharmacist (MOH) with 10+ years of public healthcare experience in Selangor. Building practical software solutions, offline-first PWAs, and clinical workflow tools."
         type="website"
       />
     );
@@ -34,7 +34,7 @@ function PageSEO() {
     return (
       <SEOHead
         title="Curriculum Vitae | Muhammad Firdaus bin Mustar"
-        description="Full Curriculum Vitae of Muhammad Firdaus bin Mustar, Registered Pharmacist (MOH) and Web Developer."
+        description="Full Curriculum Vitae of Muhammad Firdaus bin Mustar, Registered Pharmacist (MOH) and Software Builder."
         type="website"
       />
     );
